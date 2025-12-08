@@ -5,28 +5,40 @@ It performs basic CRUD operations such as adding, viewing, updating, and deletin
 
 1. Features
 
-Add new student
+    -Add new student
 
-View all students
+    -View all students
 
-Search student by ID
+    -Search student by ID
 
-Update student details
+    -Update student details
 
-Delete student
+    -Delete student
 
-Uses DAO and Service layers
+    -Uses DAO and Service layers
 
-Uses PreparedStatement for database security
+    -Uses PreparedStatement for database security
 
-2. Technologies Used
+2. Technologies Used:
 
-Java 17 or above
+    -Java 17 or above
 
-JDBC
+    -JDBC
 
-MySQL
+    -MySQL
 
-Maven
+    -Maven
 
+3.Concepts Learned:
 
+    -Java OOP
+
+    -JDBC connectivity
+
+    -CRUD operations
+
+    -DAO & Service Layer
+
+    -Exception handling
+
+    -Maven build lifecycle
